@@ -37,5 +37,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prashanta-Pathak&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanta-Pathak&layout=compact&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanta-Pathak&layout=compact&theme=radical&hide_border=true&count_private=true&cache_seconds=1" width="48%" />
 </p>

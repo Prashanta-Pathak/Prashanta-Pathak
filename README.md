@@ -4,8 +4,8 @@
 
 ### 👨‍💻 About Me
 
-* Self-taught IT engineer transitioning from a Business Administration background into **DevOps and Cloud Infrastructure**[cite: 6].
-* CompTIA Security+ certified, focusing on secure, automated, and reproducible system architectures[cite: 6].
+* Self-taught IT engineer transitioning from a Business Administration background into **DevOps and Cloud Infrastructure**
+* CompTIA Security+ certified, focusing on secure, automated, and reproducible system architectures.
 * Passionate about replacing manual workflows with robust CI/CD pipelines and infrastructure automation.
 
 ---
